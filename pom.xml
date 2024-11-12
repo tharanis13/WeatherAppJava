@@ -13,7 +13,7 @@
         </repository>
     </repositories>
     <dependencies>
-        <!-- https://mvnrepository.com/artifact/net.aksingh/owm-japis -->
+        
         <dependency>
             <groupId>net.aksingh</groupId>
             <artifactId>owm-japis</artifactId>
