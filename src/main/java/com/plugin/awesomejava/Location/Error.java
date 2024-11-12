@@ -26,4 +26,4 @@ public enum Error {
     public String toString() {
         return code + ": " + description;
     }
-}
+
